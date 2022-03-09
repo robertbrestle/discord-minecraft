@@ -1,0 +1,24 @@
+{
+  "name": "discord-minecraft",
+  "version": "1.0.0",
+  "description": "Discord Bot for Minecraft automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertbrestle/discord-minecraft.git"
+  },
+  "keywords": [],
+  "author": "robertbrestle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertbrestle/discord-minecraft/issues"
+  },
+  "homepage": "https://github.com/robertbrestle/discord-minecraft",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "request": "^2.88.2"
+  }
+}

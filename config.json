@@ -1,0 +1,12 @@
+{
+    "token": "TOKEN",
+    "prefix": "!",
+    "mc": {
+        "helptext": "**Hi! I'm Minecraft Bot!**\nHere are my commands:\n`>mc` - check server status\n`>mc start` - start server\n`>mc stop` - stop server\n`>mc help` - display this text",
+        "startstopurl": "ENDPOINT",
+        "key": "TOKEN",
+        "purpose": "PURPOSE",
+        "port": "25565",
+        "startwait": 7000
+    }
+}
